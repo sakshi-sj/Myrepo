@@ -1,1 +1,2 @@
-this is a second file named as flie2
+this is a updated file named as flie2
+fresh content

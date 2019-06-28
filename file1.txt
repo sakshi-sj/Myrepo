@@ -1,1 +1,2 @@
-this is first file named as file1.txt
+this is updated file named as file1.txt
+new content updated
